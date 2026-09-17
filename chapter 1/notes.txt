@@ -1,0 +1,19 @@
+packages are the code written by some other person but we can use it.
+packages code stores in npm website.
+npm = node package manager.
+
+to take package from npm website to our system called installing the package.
+
+.....
+
+when you use javascript to create a server that is node.js application.
+
+express is a package by using it we can create a server fast and better.
+
+.......
+
+GET => to fetch data from the server 
+POST => to send data to the server 
+PATCH => to update data inside the server 
+DELETE => to delete data inside the server 
+
