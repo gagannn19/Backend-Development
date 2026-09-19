@@ -1,0 +1,3 @@
+we don't connect the server to the clustor, we connect the server to the dadabase inside the clustor.
+
+we need to tell the database how our data will going to look and for that we create schema. 

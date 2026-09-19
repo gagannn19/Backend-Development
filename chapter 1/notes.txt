@@ -1,3 +1,11 @@
+
+process to create an express folder
+npm init -y
+npm install express
+
+
+
+
 packages are the code written by some other person but we can use it.
 packages code stores in npm website.
 npm = node package manager.
